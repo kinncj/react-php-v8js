@@ -1,0 +1,10 @@
+{
+    "name": "reactjs/react-php-v8js",
+    "type": "library",
+    "homepage": "http://github.com/reactjs/react-php-v8js",
+    "license": "https://github.com/reactjs/react-php-v8js/blob/master/LICENSE",
+    "autoload": {
+        "classmap": ["ReactJS.php"]
+    },
+    "vendor-alias": "reactjs"
+}
