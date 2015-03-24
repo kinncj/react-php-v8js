@@ -5,5 +5,8 @@
     "autoload": {
         "classmap": ["ReactJS.php"]
     },
-    "vendor-alias": "reactjs"
+    "vendor-alias": "reactjs",
+    "require": {
+        "ext-v8js": "*"
+    }
 }
